@@ -23,6 +23,13 @@ mdc: true
 
 # LLM基础知识
 
+<PoweredBySlidev mt-10 />
+
+<br>
+<span>Source code on</span>
+<a href="https://github.com/xdedss/llm_basics" target="_blank" class="slidev-icon-btn">
+  <carbon:logo-github />
+</a>
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
